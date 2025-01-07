@@ -7,7 +7,7 @@ import {
   NavItem,
   NavLink,
 } from "@material-tailwind/react";
-
+import React from "react";
 export default function App() {
   const [open, setOpen] = React.useState(false);
 
